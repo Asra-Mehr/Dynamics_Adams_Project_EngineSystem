@@ -1,2 +1,3 @@
-# Dynamics_Adams_Project_EngineSystem
- Prepared for Dynamics Course at University of Tehran
+# Dynamics_Course_ME 8106-116-01
+
+ The presented documents are prepared for dynamics course at University of Tehran
